@@ -21,15 +21,19 @@
       ]
     },
     {
-      "type": "button",
-      "label": "Useless"
-    },
-    {
       "type": "paragraph",
       "text": "NOW, in the ultimate bout of Extreme Laziness, I will not be putting any buttons on this site as that would take too much work.\nI've been working on the same damn song for months now, but all my creative juices are dying.\nSo I've been hoping that I can just make it work out in the end...\nbut I don't think I will be.",
       "style": {
         "text-align": "center",
         "margin-bottom": 30
+      }
+    },
+    {
+      "type": "button",
+      "label": "Useless",
+      "action": {
+        "type": "goToPage",
+        "target": "crash.json"
       }
     },
     {
