@@ -1,6 +1,6 @@
 {
   "format": "particle",
-  "title": "Test Of Dumbest Site",
+  "title": "Dumbest Blog for Dummies",
   "content": [
     {
       "type": "paragraph",
@@ -14,11 +14,15 @@
       "type": "list",
       "items": [
         "Hi! I'm IQlvlZero and here's a bit about me",
-        "I'm a music creator",
+        "I'm a music creator (when I feel like it)",
         "I play too many video games",
-        "I'm nonbinary, with they/them pronouns",
+        "I'm nonbinary - I use they/them pronouns",
         "And I hated every second of making this site!"
       ]
+    },
+    {
+      "type": "button",
+      "label": "Useless"
     },
     {
       "type": "paragraph",
