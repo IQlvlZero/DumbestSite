@@ -31,9 +31,7 @@
     {
       "type": "button",
       "label": "Useless",
-      "action": {
-        "type": "goToPage",
-        "target": "crash.json"
+      "action": "crash"
       }
     },
     {
