@@ -32,7 +32,6 @@
       "type": "button",
       "label": "Useless",
       "action": "crash"
-      }
     },
     {
       "type": "image",
