@@ -31,7 +31,7 @@
     {
       "type": "button",
       "label": "Useless",
-      "action": "crash"
+      "action": "https://github.com/IQlvlZero/CRASHING.git/"
     },
     {
       "type": "image",
