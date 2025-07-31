@@ -1,40 +1,41 @@
 {
-	"format": "particle",
-	"title": "Test Of Dumbest Site",
-	"content": [
-		{
-			"type": "paragraph",
-			"text": "*Welcome to my Shitty Blog!*",
-			"style": {
-				"text-align": "center",
-				"margin-bottom": 30
-			}
-		},
-		{
-			"type": "list",
-			"items": [
-				"Hi! im IQlvlZero and heres a bit about me",
-				"im a music creator",
-				"i play too many video games",
-				"im nonbinary, with they/them pronouns",
-				"and i hated every second of making this site!"
-		},
-		{
-			"type": "paragraph",
-			"text": "NOW, In the ultimate bout of Extreme Lazinessi will not be putting any buttons on this site as that would take to much work\nive been working on the same damn song for months now but all my creative juices are dying\nsoive been hoping that i can just make it work out in the end\nbut i dont think i will be.",
-			"style": {
-				"text-align": "center",
-				"margin-bottom": 30
-		},
-		{
-			"type": "image",
-			"width": 7,
-			"height": 7,
-			"pixels": "011011 G G G 011111 00111 0001",
-			"style": {
-				"scale": 3
-
-			]
-		}
-	]
+  "format": "particle",
+  "title": "Test Of Dumbest Site",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*Welcome to my Shitty Blog!*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "list",
+      "items": [
+        "Hi! I'm IQlvlZero and here's a bit about me",
+        "I'm a music creator",
+        "I play too many video games",
+        "I'm nonbinary, with they/them pronouns",
+        "And I hated every second of making this site!"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "NOW, in the ultimate bout of Extreme Laziness, I will not be putting any buttons on this site as that would take too much work.\nI've been working on the same damn song for months now, but all my creative juices are dying.\nSo I've been hoping that I can just make it work out in the end...\nbut I don't think I will be.",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "image",
+      "width": 7,
+      "height": 7,
+      "pixels": "011011 G G G 011111 00111 0001",
+      "style": {
+        "scale": 3
+      }
+    }
+  ]
 }
